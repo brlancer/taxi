@@ -12,7 +12,9 @@ in Adobe Illustrator.
 ### CREDIT 
 
 I owe all credit to Max Woolf's original plot 
+
 http://minimaxir.com/2015/08/nyc-map/
 
 and Felipe Hoffa for sharing preliminary replication code 
+
 https://www.reddit.com/r/bigquery/comments/3fo9ao/nyc_taxi_trips_now_officially_shared_by_the_nyc/
